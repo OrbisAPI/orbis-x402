@@ -1,0 +1,21 @@
+{
+  "name": "orbis-x402",
+  "version": "1.0.0",
+  "description": "Call 2300+ APIs with x402 micropayments (USDC on Base). No API keys. No subscriptions. Pay per call.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["x402", "ai-agents", "api", "usdc", "base", "coinbase", "micropayments", "orbis", "mcp"],
+  "author": "OrbisAPI",
+  "license": "MIT",
+  "homepage": "https://orbisapi.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrbisAPI/orbis-x402.git"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
