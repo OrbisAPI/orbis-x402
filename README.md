@@ -1,6 +1,6 @@
 # orbis-x402
 
-Call 2,300+ APIs with x402 micropayments (USDC on Base). No API keys. No subscriptions. Pay per call.
+Call 2,800+ APIs with x402 micropayments (USDC on Base). No API keys. No subscriptions. Pay per call.
 
 ```bash
 npm install orbis-x402
@@ -66,7 +66,7 @@ Low-level call with optional pre-built payment header.
 ## Links
 
 - [Marketplace](https://orbisapi.com/marketplace)
-- [2,300+ APIs](https://orbisapi.com/api/v2/x402/discovery/resources)
+- [2,800+ APIs](https://orbisapi.com/api/v2/x402/discovery/resources)
 - [For Agents](https://orbisapi.com/for-agents)
 - [MCP Server](https://orbisapi.com/mcp)
 - [Agent Skills](https://github.com/OrbisAPI/agent-skills)
